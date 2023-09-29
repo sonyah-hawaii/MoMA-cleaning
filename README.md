@@ -1,3 +1,12 @@
+## Data Processing & Analytics Example
+   
+My favorite subject (after data) is art.   
+In this repo, I am developing a series of cleaning functions to standardize the MoMA's collection.
+
+[Notebook](EDA%20&%20Processing.ipynb)
+[Functions](cleaners.py)
+
+
 The Museum of Modern Art (MoMA) Collection
 ===================
 
