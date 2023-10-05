@@ -1,11 +1,13 @@
 ## Data Processing & Analytics Example
-   
+
 My favorite subject (after data) is art.   
 In this repo, I am developing a series of cleaning functions to standardize the MoMA's collection.
 
 [Notebook](EDA%20&%20Processing.ipynb)
 [Functions](cleaners.py)
 
+Primary Data is sourced from MoMA publicly available catalog.
+Data is enriched with style tags from WikiArt - scraped and organized by [CS Chan et al](https://github.com/cs-chan/ArtGAN/tree/master). That dataset was created and most often used for CNN training, but can be parsed to have the data we need.output[output['title']=='review']['url']
 
 The Museum of Modern Art (MoMA) Collection
 ===================
